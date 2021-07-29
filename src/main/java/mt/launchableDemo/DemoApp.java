@@ -10,6 +10,8 @@ public class DemoApp {
 		substract(a, b);
 
 		multiplication(a, b);
+		
+		System.out.println("to trigger push");
 
 		division(a, b);
 
