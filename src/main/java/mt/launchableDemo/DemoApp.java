@@ -13,6 +13,8 @@ public class DemoApp {
 		
 		System.out.println("to trigger push");
 
+		System.out.println("to trigger push");
+		
 		division(a, b);
 
 		power(a, b);
